@@ -142,7 +142,7 @@ let p1 = {nvars = 2;
 
 
 
-(*  Vérification que notrz implémentation donne un fichier
+(*  Vérification que notre implémentation donne un fichier
    SMTLIB qui est équivalent au fichier que nous avons écrit à la main
    dans l'exercice 1. Plus un exemple ajouter par souci de verification. *)
 
